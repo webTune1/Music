@@ -782,8 +782,369 @@
     "artist": "Odia",
     "language": "Odia",
     "title": "Sunyataku"
+  },
+    {
+    "file": "english-english-Blinding Lights.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Blinding Lights"
+  },
+  {
+    "file": "english-english-Dead Eyes.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Dead Eyes"
+  },
+  {
+    "file": "english-english-Dollar.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Dollar"
+  },
+  {
+    "file": "english-english-Eredaze.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Eredaze"
+  },
+  {
+    "file": "english-english-Gone With The Wind.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Gone With The Wind"
+  },
+  {
+    "file": "english-english-Hope.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Hope"
+  },
+  {
+    "file": "english-english-I Had A Dream.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "I Had A Dream"
+  },
+  {
+    "file": "english-english-Jar of Heart.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Jar Of Heart"
+  },
+  {
+    "file": "english-english-Let Me Down Slowly.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Let Me Down Slowly"
+  },
+  {
+    "file": "english-english-Levels.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Levels"
+  },
+  {
+    "file": "english-english-People.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "People"
+  },
+  {
+    "file": "english-english-Ride It.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Ride It"
+  },
+  {
+    "file": "english-english-Save Your Tears.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Save Your Tears"
+  },
+  {
+    "file": "english-english-Skechers.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Skechers"
+  },
+  {
+    "file": "english-english-Someone To You.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Someone To You"
+  },
+  {
+    "file": "english-english-Starboy.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Starboy"
+  },
+  {
+    "file": "english-english-The Last Ride.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "The Last Ride"
+  },
+  {
+    "file": "english-english-Tum Hi Ho.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Tum Hi Ho"
+  },
+  {
+    "file": "english-english-When She Loves Me.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "When She Loves Me"
+  },
+  {
+    "file": "english-english-Your Eyes.mp3",
+    "artist": "English",
+    "language": "English",
+    "title": "Your Eyes"
+  },
+  {
+    "file": "hindi-hindi-AGAR TUM SAATH HO.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Agar Tum Saath Ho"
+  },
+  {
+    "file": "hindi-hindi-Dagabaaz Re.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Dagabaaz Re"
+  },
+  {
+    "file": "hindi-hindi-Ek Din Aap.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Ek Din Aap"
+  },
+  {
+    "file": "hindi-hindi-I Love You.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "I Love You"
+  },
+  {
+    "file": "hindi-hindi-Main Koi Aisa Geet Gaoon.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Main Koi Aisa Geet Gaoon"
+  },
+  {
+    "file": "hindi-hindi-O Maahi.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "O Maahi"
+  },
+  {
+    "file": "hindi-hindi-Pehla Nasha.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Pehla Nasha"
+  },
+  {
+    "file": "hindi-hindi-Phir Bhi Tumko Chaahunga.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Phir Bhi Tumko Chaahunga"
+  },
+  {
+    "file": "hindi-hindi-Tera Fitoor (Jhankar).mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Tera Fitoor (Jhankar)"
+  },
+  {
+    "file": "hindi-hindi-Tera Hone Laga Hoon.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Tera Hone Laga Hoon"
+  },
+  {
+    "file": "hindi-hindi-Tum Ho.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Tum Ho"
+  },
+  {
+    "file": "hindi-hindi-Zaalima.mp3",
+    "artist": "Hindi",
+    "language": "Hindi",
+    "title": "Zaalima"
+  },
+  {
+    "file": "panjabi-panjabi-295.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "295"
+  },
+  {
+    "file": "panjabi-panjabi-410.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "410"
+  },
+  {
+    "file": "panjabi-panjabi-8 Parche.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "8 Parche"
+  },
+  {
+    "file": "panjabi-panjabi-Amplifier.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Amplifier"
+  },
+  {
+    "file": "panjabi-panjabi-Bad Munda.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Bad Munda"
+  },
+  {
+    "file": "panjabi-panjabi-Balenci.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Balenci"
+  },
+  {
+    "file": "panjabi-panjabi-Bebe Bapu.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Bebe Bapu"
+  },
+  {
+    "file": "panjabi-panjabi-Bijlee Bijlee.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Bijlee Bijlee"
+  },
+  {
+    "file": "panjabi-panjabi-BROWN MUNDE.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Brown Munde"
+  },
+  {
+    "file": "panjabi-panjabi-Cheques.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Cheques"
+  },
+  {
+    "file": "panjabi-panjabi-Daru Badnaam.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Daru Badnaam"
+  },
+  {
+    "file": "panjabi-panjabi-Fell For You.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Fell For You"
+  },
+  {
+    "file": "panjabi-panjabi-High Rated Gabru.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "High Rated Gabru"
+  },
+  {
+    "file": "panjabi-panjabi-KHAAB AKHIL.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Khaab Akhil"
+  },
+  {
+    "file": "panjabi-panjabi-King Shit.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "King Shit"
+  },
+  {
+    "file": "panjabi-panjabi-Kya Baat Ay.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Kya Baat Ay"
+  },
+  {
+    "file": "panjabi-panjabi-Na Ja.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Na Ja"
+  },
+  {
+    "file": "panjabi-panjabi-Nira Ishq.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Nira Ishq"
+  },
+  {
+    "file": "panjabi-panjabi-One Love.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "One Love"
+  },
+  {
+    "file": "panjabi-panjabi-Raat Di Gedi.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Raat Di Gedi"
+  },
+  {
+    "file": "panjabi-panjabi-Safety Off.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Safety Off"
+  },
+  {
+    "file": "panjabi-panjabi-Sakhiyaan.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Sakhiyaan"
+  },
+  {
+    "file": "panjabi-panjabi-So High.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "So High"
+  },
+  {
+    "file": "panjabi-panjabi-SOFTLY.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Softly"
+  },
+  {
+    "file": "panjabi-panjabi-Supreme.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Supreme"
+  },
+  {
+    "file": "panjabi-panjabi-Tera Mera Viah.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Tera Mera Viah"
+  },
+  {
+    "file": "panjabi-panjabi-Together.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Together"
+  },
+  {
+    "file": "panjabi-panjabi-Wavy.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Wavy"
   }
 ]
+
 
 
 
