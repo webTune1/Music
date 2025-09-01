@@ -5,26 +5,7 @@
     "language": "Hindi",
     "title": "Alone, Pt. Ii"
   },
-
    {
-    "file": "mashup-hindi-Old vs New.mp3",
-    "artist": "Mashup",
-    "language": "Hindi",
-    "title": "Old vs New"
-  },
-    {
-    "file": "mashup-hindi-90s hits.mp3",
-    "artist": "Mashup",
-    "language": "Hindi",
-    "title": "90s hits"
-  },
-  {
-    "file": "mashup-hindi-Panjabi Hits.mp3",
-    "artist": "Mashup",
-    "language": "Hindi",
-    "title": "Panjabi Hits"
-  },
-  {
     "file": "english-hindi-Attention.mp3",
     "artist": "English",
     "language": "Hindi",
@@ -1169,6 +1150,7 @@
     "title": "Wavy"
   }
 ]
+
 
 
 
