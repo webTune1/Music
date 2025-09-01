@@ -1114,10 +1114,10 @@
     "title": "So High"
   },
   {
-    "file": "panjabi-panjabi-SOFTLY.mp3",
-    "artist": "Panjabi",
-    "language": "Panjabi",
-    "title": "Softly"
+    "file": "bhakti-hindi-Pyaro Vrindavan.mp3",
+    "artist": "Bhakti",
+    "language": "Hindi",
+    "title": "Pyaro Virindavan"
   },
   {
     "file": "panjabi-panjabi-Supreme.mp3",
@@ -1138,12 +1138,19 @@
     "title": "Together"
   },
   {
+    "file": "panjabi-panjabi-Together.mp3",
+    "artist": "Panjabi",
+    "language": "Panjabi",
+    "title": "Together"
+  },
+  {
     "file": "panjabi-panjabi-Wavy.mp3",
     "artist": "Panjabi",
     "language": "Panjabi",
     "title": "Wavy"
   }
 ]
+
 
 
 
